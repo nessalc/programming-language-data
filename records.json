@@ -1,0 +1,8818 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FOCUS"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FOIL"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FORMAC (FORMula MAnipulation Compiler)"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "@Formula"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1970,
+        "name": "Forth"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2004,
+        "name": "A.NET (A#/A sharp)"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1951,
+        "name": "A-0 System"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "A+ (A plus)"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ABAP"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ABC"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ABC ALGOL"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ACC"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Accent (Rational Synergy)"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ace Distributed Application Specification Language (DASL)"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Action!"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1998,
+        "name": "ActionScript"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Actor"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1980,
+        "name": "Ada",
+        "spec": [
+          "MIL-STD-1815",
+          "ISO/IEC 8652"
+        ]
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Adenine (Haystack)"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AdvPL"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Agda"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Agilent VEE (Keysight VEE)"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Agora"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AIMMS"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Aldor"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Alef"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ALF"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1958,
+        "name": "ALGOL 58"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1960,
+        "name": "ALGOL 60"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1968,
+        "name": "ALGOL 68"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ALGOL W"
+      },
+      "elementId": "30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Alice (Alice ML)"
+      },
+      "elementId": "31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Alma-0"
+      },
+      "elementId": "32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AmbientTalk"
+      },
+      "elementId": "33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Amiga E"
+      },
+      "elementId": "34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1985,
+        "name": "AMPL"
+      },
+      "elementId": "35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Analitik"
+      },
+      "elementId": "36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AngelScript"
+      },
+      "elementId": "37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Apache Pig latin"
+      },
+      "elementId": "38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Apex (Salesforce.com, Inc)"
+      },
+      "elementId": "39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "APL"
+      },
+      "elementId": "40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "App Inventor for Android's visual block language (MIT App Inventor)"
+      },
+      "elementId": "41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1993,
+        "name": "AppleScript"
+      },
+      "elementId": "42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "APT"
+      },
+      "elementId": "43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Arc"
+      },
+      "elementId": "44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ARexx"
+      },
+      "elementId": "45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Argus"
+      },
+      "elementId": "46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1947,
+        "name": "Assembly language (ASM)"
+      },
+      "elementId": "47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AutoHotkey"
+      },
+      "elementId": "48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AutoIt"
+      },
+      "elementId": "49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "AutoLISP / Visual LISP"
+      },
+      "elementId": "50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Averest"
+      },
+      "elementId": "51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1977,
+        "name": "AWK"
+      },
+      "elementId": "52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Axum"
+      },
+      "elementId": "53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1969,
+        "name": "B"
+      },
+      "elementId": "54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Babbage"
+      },
+      "elementId": "55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ballerina"
+      },
+      "elementId": "56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Bash"
+      },
+      "elementId": "57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1964,
+        "name": "BASIC"
+      },
+      "elementId": "58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Batch file (Windows/MS-DOS)"
+      },
+      "elementId": "59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "bc (basic calculator)"
+      },
+      "elementId": "60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1967,
+        "name": "BCPL"
+      },
+      "elementId": "61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1999,
+        "name": "BeanShell"
+      },
+      "elementId": "62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "BETA"
+      },
+      "elementId": "63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "BLISS"
+      },
+      "elementId": "64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Blockly"
+      },
+      "elementId": "65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "BlooP"
+      },
+      "elementId": "66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Boo"
+      },
+      "elementId": "67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Boomerang"
+      },
+      "elementId": "68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Bosque"
+      },
+      "elementId": "69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1972,
+        "name": "C",
+        "spec": "ISO/IEC 9899"
+      },
+      "elementId": "70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1998,
+        "name": "C-- (C minus minus)"
+      },
+      "elementId": "71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1985,
+        "name": "C++ (C plus plus)",
+        "spec": "ISO/IEC 14882"
+      },
+      "elementId": "72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "C*"
+      },
+      "elementId": "73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2000,
+        "name": "C# (C sharp)",
+        "spec": "ISO/IEC 23270"
+      },
+      "elementId": "74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "C/AL"
+      },
+      "elementId": "75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CachÃ© ObjectScript"
+      },
+      "elementId": "76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "C Shell (csh)"
+      },
+      "elementId": "77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Caml"
+      },
+      "elementId": "78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2022,
+        "name": "Carbon"
+      },
+      "elementId": "79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Catrobat"
+      },
+      "elementId": "80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cayenne (Lennart Augustsson)"
+      },
+      "elementId": "81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CDuce"
+      },
+      "elementId": "82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cecil"
+      },
+      "elementId": "83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CESIL (Computer Education in Schools Instruction Language)"
+      },
+      "elementId": "84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CÃ©u"
+      },
+      "elementId": "85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ceylon"
+      },
+      "elementId": "86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CFEngine"
+      },
+      "elementId": "87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cg (High-Level Shader/Shading Language [HLSL])"
+      },
+      "elementId": "88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ch"
+      },
+      "elementId": "89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2009,
+        "name": "Chapel (Cascade High Productivity Language)"
+      },
+      "elementId": "90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Charm"
+      },
+      "elementId": "91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CHILL"
+      },
+      "elementId": "92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CHIP-8"
+      },
+      "elementId": "93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ChucK"
+      },
+      "elementId": "94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cilk (also Cilk++ and Cilk plus)"
+      },
+      "elementId": "95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Claire"
+      },
+      "elementId": "96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Clarion"
+      },
+      "elementId": "97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Clean"
+      },
+      "elementId": "98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Clipper"
+      },
+      "elementId": "99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1985,
+        "name": "CLIPS"
+      },
+      "elementId": "100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CLIST"
+      },
+      "elementId": "101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2007,
+        "name": "Clojure"
+      },
+      "elementId": "102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1975,
+        "name": "CLU"
+      },
+      "elementId": "103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1968,
+        "name": "CMS-2"
+      },
+      "elementId": "104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1959,
+        "name": "COBOL",
+        "spec": "ISO/IEC 1989"
+      },
+      "elementId": "105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1999,
+        "name": "CobolScript - COBOL Scripting language"
+      },
+      "elementId": "106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cobra"
+      },
+      "elementId": "107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2009,
+        "name": "CoffeeScript"
+      },
+      "elementId": "108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ColdFusion"
+      },
+      "elementId": "109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "COMAL"
+      },
+      "elementId": "110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "COMIT"
+      },
+      "elementId": "111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Common Intermediate Language (CIL)"
+      },
+      "elementId": "112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1984,
+        "name": "Common Lisp (also known as CL)"
+      },
+      "elementId": "113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "COMPASS"
+      },
+      "elementId": "114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Component Pascal"
+      },
+      "elementId": "115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1957,
+        "name": "COMTRAN"
+      },
+      "elementId": "116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Concurrent Pascal"
+      },
+      "elementId": "117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Constraint Handling Rules (CHR)"
+      },
+      "elementId": "118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Control Language"
+      },
+      "elementId": "119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Coq"
+      },
+      "elementId": "120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CORAL, Coral 66"
+      },
+      "elementId": "121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CorVision"
+      },
+      "elementId": "122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1964,
+        "name": "COWSEL"
+      },
+      "elementId": "123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1963,
+        "name": "CPL"
+      },
+      "elementId": "124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cryptol"
+      },
+      "elementId": "125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2014,
+        "name": "Crystal"
+      },
+      "elementId": "126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Csound"
+      },
+      "elementId": "127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cuneiform"
+      },
+      "elementId": "128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Curl"
+      },
+      "elementId": "129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Curry"
+      },
+      "elementId": "130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cybil"
+      },
+      "elementId": "131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cyclone"
+      },
+      "elementId": "132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cypher Query Language"
+      },
+      "elementId": "133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Cython"
+      },
+      "elementId": "134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CEEMAC"
+      },
+      "elementId": "135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2001,
+        "name": "D (also known as dlang)"
+      },
+      "elementId": "136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2011,
+        "name": "Dart"
+      },
+      "elementId": "137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Darwin"
+      },
+      "elementId": "138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DataFlex"
+      },
+      "elementId": "139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Datalog"
+      },
+      "elementId": "140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DATATRIEVE"
+      },
+      "elementId": "141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "dBase"
+      },
+      "elementId": "142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "dc"
+      },
+      "elementId": "143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DCL (DIGITAL Command Language)"
+      },
+      "elementId": "144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Delphi"
+      },
+      "elementId": "145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DIBOL"
+      },
+      "elementId": "146"
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DinkC"
+      },
+      "elementId": "147"
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Dog"
+      },
+      "elementId": "148"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Draco"
+      },
+      "elementId": "149"
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DRAKON"
+      },
+      "elementId": "150"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1992,
+        "name": "Dylan"
+      },
+      "elementId": "151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DYNAMO"
+      },
+      "elementId": "152"
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "DAX (Data Analysis Expressions)"
+      },
+      "elementId": "153"
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "E"
+      },
+      "elementId": "154"
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ease"
+      },
+      "elementId": "155"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Easy PL/I"
+      },
+      "elementId": "156"
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "EASYTRIEVE PLUS"
+      },
+      "elementId": "157"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "eC"
+      },
+      "elementId": "158"
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1997,
+        "name": "ECMAScript"
+      },
+      "elementId": "159"
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Edinburgh IMP"
+      },
+      "elementId": "160"
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "EGL"
+      },
+      "elementId": "161"
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1986,
+        "name": "Eiffel"
+      },
+      "elementId": "162"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ELAN"
+      },
+      "elementId": "163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2012,
+        "name": "Elixir"
+      },
+      "elementId": "164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Elm"
+      },
+      "elementId": "165"
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Emacs Lisp"
+      },
+      "elementId": "166"
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1984,
+        "name": "Emerald"
+      },
+      "elementId": "167"
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Epigram"
+      },
+      "elementId": "168"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "EPL (Easy Programming Language)"
+      },
+      "elementId": "169"
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1986,
+        "name": "Erlang"
+      },
+      "elementId": "170"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "es"
+      },
+      "elementId": "171"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Escher"
+      },
+      "elementId": "172"
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ESPOL"
+      },
+      "elementId": "173"
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Esterel"
+      },
+      "elementId": "174"
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1996,
+        "name": "Etoys"
+      },
+      "elementId": "175"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Euclid"
+      },
+      "elementId": "176"
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1965,
+        "name": "Euler"
+      },
+      "elementId": "177"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Euphoria"
+      },
+      "elementId": "178"
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "EusLisp Robot Programming Language"
+      },
+      "elementId": "179"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "CMS EXEC (EXEC)"
+      },
+      "elementId": "180"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "EXEC 2"
+      },
+      "elementId": "181"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Executable UML"
+      },
+      "elementId": "182"
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ezhil"
+      },
+      "elementId": "183"
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "F"
+      },
+      "elementId": "184"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2005,
+        "name": "F# (F sharp)"
+      },
+      "elementId": "185"
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "F*"
+      },
+      "elementId": "186"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Factor"
+      },
+      "elementId": "187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2005,
+        "name": "Fantom"
+      },
+      "elementId": "188"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FAUST"
+      },
+      "elementId": "189"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FFP"
+      },
+      "elementId": "190"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "fish"
+      },
+      "elementId": "191"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FjÃ¶lnir"
+      },
+      "elementId": "192"
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FL"
+      },
+      "elementId": "193"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Flavors"
+      },
+      "elementId": "194"
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Flex"
+      },
+      "elementId": "195"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Flix"
+      },
+      "elementId": "196"
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FlooP"
+      },
+      "elementId": "197"
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1955,
+        "name": "FLOW-MATIC (B0)"
+      },
+      "elementId": "198"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)"
+      },
+      "elementId": "199"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1957,
+        "name": "Fortran",
+        "spec": "ISO/IEC 1539"
+      },
+      "elementId": "200"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2006,
+        "name": "Fortress"
+      },
+      "elementId": "201"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FP"
+      },
+      "elementId": "202"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "FoxBase/FoxPro"
+      },
+      "elementId": "203"
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Franz Lisp"
+      },
+      "elementId": "204"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Futhark"
+      },
+      "elementId": "205"
+    }
+  },
+  {
+    "n": {
+      "identity": 206,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "F-Script"
+      },
+      "elementId": "206"
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Game Maker Language"
+      },
+      "elementId": "207"
+    }
+  },
+  {
+    "n": {
+      "identity": 208,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GameMonkey Script"
+      },
+      "elementId": "208"
+    }
+  },
+  {
+    "n": {
+      "identity": 209,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "General Algebraic Modeling System (GAMS)"
+      },
+      "elementId": "209"
+    }
+  },
+  {
+    "n": {
+      "identity": 210,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GAP"
+      },
+      "elementId": "210"
+    }
+  },
+  {
+    "n": {
+      "identity": 211,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "G-code"
+      },
+      "elementId": "211"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GDScript (Godot)"
+      },
+      "elementId": "212"
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Genie"
+      },
+      "elementId": "213"
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Geometric Description Language (GDL)"
+      },
+      "elementId": "214"
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GEORGE"
+      },
+      "elementId": "215"
+    }
+  },
+  {
+    "n": {
+      "identity": 216,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OpenGL Shading Language (GLSL)"
+      },
+      "elementId": "216"
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GNU E"
+      },
+      "elementId": "217"
+    }
+  },
+  {
+    "n": {
+      "identity": 218,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GNU Ubiquitous Intelligent Language for Extensions (GNU Guile)"
+      },
+      "elementId": "218"
+    }
+  },
+  {
+    "n": {
+      "identity": 219,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2009,
+        "name": "Go"
+      },
+      "elementId": "219"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Go!"
+      },
+      "elementId": "220"
+    }
+  },
+  {
+    "n": {
+      "identity": 221,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Game Oriented Assembly Lisp (GOAL)"
+      },
+      "elementId": "221"
+    }
+  },
+  {
+    "n": {
+      "identity": 222,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GÃ¶del"
+      },
+      "elementId": "222"
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Golo"
+      },
+      "elementId": "223"
+    }
+  },
+  {
+    "n": {
+      "identity": 224,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Good Old Mad (GOM)"
+      },
+      "elementId": "224"
+    }
+  },
+  {
+    "n": {
+      "identity": 225,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Google Apps Script"
+      },
+      "elementId": "225"
+    }
+  },
+  {
+    "n": {
+      "identity": 226,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Gosu"
+      },
+      "elementId": "226"
+    }
+  },
+  {
+    "n": {
+      "identity": 227,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GOTRAN (IBM 1620)"
+      },
+      "elementId": "227"
+    }
+  },
+  {
+    "n": {
+      "identity": 228,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "General Purpose Simulation System (GPSS)"
+      },
+      "elementId": "228"
+    }
+  },
+  {
+    "n": {
+      "identity": 229,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GraphTalk (Computer Sciences Corporation)"
+      },
+      "elementId": "229"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "GRASS"
+      },
+      "elementId": "230"
+    }
+  },
+  {
+    "n": {
+      "identity": 231,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Grasshopper"
+      },
+      "elementId": "231"
+    }
+  },
+  {
+    "n": {
+      "identity": 232,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2003,
+        "name": "Groovy (by Apache)"
+      },
+      "elementId": "232"
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2014,
+        "name": "Hack"
+      },
+      "elementId": "233"
+    }
+  },
+  {
+    "n": {
+      "identity": 234,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "HAGGIS"
+      },
+      "elementId": "234"
+    }
+  },
+  {
+    "n": {
+      "identity": 235,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "HAL/S"
+      },
+      "elementId": "235"
+    }
+  },
+  {
+    "n": {
+      "identity": 236,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Halide (programming language)"
+      },
+      "elementId": "236"
+    }
+  },
+  {
+    "n": {
+      "identity": 237,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hamilton C shell"
+      },
+      "elementId": "237"
+    }
+  },
+  {
+    "n": {
+      "identity": 238,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Harbour"
+      },
+      "elementId": "238"
+    }
+  },
+  {
+    "n": {
+      "identity": 239,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hartmann pipelines"
+      },
+      "elementId": "239"
+    }
+  },
+  {
+    "n": {
+      "identity": 240,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1990,
+        "name": "Haskell"
+      },
+      "elementId": "240"
+    }
+  },
+  {
+    "n": {
+      "identity": 241,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2005,
+        "name": "Haxe"
+      },
+      "elementId": "241"
+    }
+  },
+  {
+    "n": {
+      "identity": 242,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hermes"
+      },
+      "elementId": "242"
+    }
+  },
+  {
+    "n": {
+      "identity": 243,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "High Level Assembly (HLA)"
+      },
+      "elementId": "243"
+    }
+  },
+  {
+    "n": {
+      "identity": 244,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "High Level Shader Language (HLSL)"
+      },
+      "elementId": "244"
+    }
+  },
+  {
+    "n": {
+      "identity": 245,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hollywood"
+      },
+      "elementId": "245"
+    }
+  },
+  {
+    "n": {
+      "identity": 246,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "HolyC (TempleOS)"
+      },
+      "elementId": "246"
+    }
+  },
+  {
+    "n": {
+      "identity": 247,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hop"
+      },
+      "elementId": "247"
+    }
+  },
+  {
+    "n": {
+      "identity": 248,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hopscotch"
+      },
+      "elementId": "248"
+    }
+  },
+  {
+    "n": {
+      "identity": 249,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hope"
+      },
+      "elementId": "249"
+    }
+  },
+  {
+    "n": {
+      "identity": 250,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hume"
+      },
+      "elementId": "250"
+    }
+  },
+  {
+    "n": {
+      "identity": 251,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1987,
+        "name": "HyperTalk"
+      },
+      "elementId": "251"
+    }
+  },
+  {
+    "n": {
+      "identity": 252,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Hy"
+      },
+      "elementId": "252"
+    }
+  },
+  {
+    "n": {
+      "identity": 253,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2002,
+        "name": "Io"
+      },
+      "elementId": "253"
+    }
+  },
+  {
+    "n": {
+      "identity": 254,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1977,
+        "name": "Icon"
+      },
+      "elementId": "254"
+    }
+  },
+  {
+    "n": {
+      "identity": 255,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "IBM Basic assembly language"
+      },
+      "elementId": "255"
+    }
+  },
+  {
+    "n": {
+      "identity": 256,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "IBM HAScript"
+      },
+      "elementId": "256"
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "IBM Informix-4GL"
+      },
+      "elementId": "257"
+    }
+  },
+  {
+    "n": {
+      "identity": 258,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "IBM RPG"
+      },
+      "elementId": "258"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1977,
+        "name": "IDL"
+      },
+      "elementId": "259"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Idris"
+      },
+      "elementId": "260"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Inform"
+      },
+      "elementId": "261"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ISLISP"
+      },
+      "elementId": "262"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "J"
+      },
+      "elementId": "263"
+    }
+  },
+  {
+    "n": {
+      "identity": 264,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2002,
+        "name": "J# (J sharp)"
+      },
+      "elementId": "264"
+    }
+  },
+  {
+    "n": {
+      "identity": 265,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1996,
+        "name": "J++ (J plus plus)"
+      },
+      "elementId": "265"
+    }
+  },
+  {
+    "n": {
+      "identity": 266,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JADE"
+      },
+      "elementId": "266"
+    }
+  },
+  {
+    "n": {
+      "identity": 267,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Jai"
+      },
+      "elementId": "267"
+    }
+  },
+  {
+    "n": {
+      "identity": 268,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JAL"
+      },
+      "elementId": "268"
+    }
+  },
+  {
+    "n": {
+      "identity": 269,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Janus (concurrent constraint programming language)"
+      },
+      "elementId": "269"
+    }
+  },
+  {
+    "n": {
+      "identity": 270,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Janus (time-reversible computing programming language)"
+      },
+      "elementId": "270"
+    }
+  },
+  {
+    "n": {
+      "identity": 271,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JASS"
+      },
+      "elementId": "271"
+    }
+  },
+  {
+    "n": {
+      "identity": 272,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "Java"
+      },
+      "elementId": "272"
+    }
+  },
+  {
+    "n": {
+      "identity": 273,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JavaFX Script"
+      },
+      "elementId": "273"
+    }
+  },
+  {
+    "n": {
+      "identity": 274,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "JavaScript"
+      },
+      "elementId": "274"
+    }
+  },
+  {
+    "n": {
+      "identity": 275,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Jess"
+      },
+      "elementId": "275"
+    }
+  },
+  {
+    "n": {
+      "identity": 276,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JCL"
+      },
+      "elementId": "276"
+    }
+  },
+  {
+    "n": {
+      "identity": 277,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JEAN"
+      },
+      "elementId": "277"
+    }
+  },
+  {
+    "n": {
+      "identity": 278,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Join Java"
+      },
+      "elementId": "278"
+    }
+  },
+  {
+    "n": {
+      "identity": 279,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JOSS"
+      },
+      "elementId": "279"
+    }
+  },
+  {
+    "n": {
+      "identity": 280,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Joule"
+      },
+      "elementId": "280"
+    }
+  },
+  {
+    "n": {
+      "identity": 281,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JOVIAL"
+      },
+      "elementId": "281"
+    }
+  },
+  {
+    "n": {
+      "identity": 282,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Joy"
+      },
+      "elementId": "282"
+    }
+  },
+  {
+    "n": {
+      "identity": 283,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "jq"
+      },
+      "elementId": "283"
+    }
+  },
+  {
+    "n": {
+      "identity": 284,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JScript"
+      },
+      "elementId": "284"
+    }
+  },
+  {
+    "n": {
+      "identity": 285,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "JScript .NET"
+      },
+      "elementId": "285"
+    }
+  },
+  {
+    "n": {
+      "identity": 286,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2012,
+        "name": "Julia"
+      },
+      "elementId": "286"
+    }
+  },
+  {
+    "n": {
+      "identity": 287,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Jython"
+      },
+      "elementId": "287"
+    }
+  },
+  {
+    "n": {
+      "identity": 288,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "K"
+      },
+      "elementId": "288"
+    }
+  },
+  {
+    "n": {
+      "identity": 289,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Kaleidoscope"
+      },
+      "elementId": "289"
+    }
+  },
+  {
+    "n": {
+      "identity": 290,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Karel"
+      },
+      "elementId": "290"
+    }
+  },
+  {
+    "n": {
+      "identity": 291,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KEE"
+      },
+      "elementId": "291"
+    }
+  },
+  {
+    "n": {
+      "identity": 292,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Kixtart"
+      },
+      "elementId": "292"
+    }
+  },
+  {
+    "n": {
+      "identity": 293,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Klerer-May System"
+      },
+      "elementId": "293"
+    }
+  },
+  {
+    "n": {
+      "identity": 294,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KIF (Knowledge Interchange Format)"
+      },
+      "elementId": "294"
+    }
+  },
+  {
+    "n": {
+      "identity": 295,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Kojo"
+      },
+      "elementId": "295"
+    }
+  },
+  {
+    "n": {
+      "identity": 296,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2011,
+        "name": "Kotlin"
+      },
+      "elementId": "296"
+    }
+  },
+  {
+    "n": {
+      "identity": 297,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KRC"
+      },
+      "elementId": "297"
+    }
+  },
+  {
+    "n": {
+      "identity": 298,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KRL"
+      },
+      "elementId": "298"
+    }
+  },
+  {
+    "n": {
+      "identity": 299,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KRL (KUKA Robot Language)"
+      },
+      "elementId": "299"
+    }
+  },
+  {
+    "n": {
+      "identity": 300,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KRYPTON"
+      },
+      "elementId": "300"
+    }
+  },
+  {
+    "n": {
+      "identity": 301,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "KornShell (ksh)"
+      },
+      "elementId": "301"
+    }
+  },
+  {
+    "n": {
+      "identity": 302,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Kodu"
+      },
+      "elementId": "302"
+    }
+  },
+  {
+    "n": {
+      "identity": 303,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Kv (Kivy)"
+      },
+      "elementId": "303"
+    }
+  },
+  {
+    "n": {
+      "identity": 304,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LabVIEW"
+      },
+      "elementId": "304"
+    }
+  },
+  {
+    "n": {
+      "identity": 305,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ladder"
+      },
+      "elementId": "305"
+    }
+  },
+  {
+    "n": {
+      "identity": 306,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LANSA"
+      },
+      "elementId": "306"
+    }
+  },
+  {
+    "n": {
+      "identity": 307,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "Lasso"
+      },
+      "elementId": "307"
+    }
+  },
+  {
+    "n": {
+      "identity": 308,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lava"
+      },
+      "elementId": "308"
+    }
+  },
+  {
+    "n": {
+      "identity": 309,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LC-3"
+      },
+      "elementId": "309"
+    }
+  },
+  {
+    "n": {
+      "identity": 310,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lean"
+      },
+      "elementId": "310"
+    }
+  },
+  {
+    "n": {
+      "identity": 311,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Legoscript"
+      },
+      "elementId": "311"
+    }
+  },
+  {
+    "n": {
+      "identity": 312,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LIL"
+      },
+      "elementId": "312"
+    }
+  },
+  {
+    "n": {
+      "identity": 313,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LilyPond"
+      },
+      "elementId": "313"
+    }
+  },
+  {
+    "n": {
+      "identity": 314,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "Limbo"
+      },
+      "elementId": "314"
+    }
+  },
+  {
+    "n": {
+      "identity": 315,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LINC"
+      },
+      "elementId": "315"
+    }
+  },
+  {
+    "n": {
+      "identity": 316,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lingo"
+      },
+      "elementId": "316"
+    }
+  },
+  {
+    "n": {
+      "identity": 317,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LINQ"
+      },
+      "elementId": "317"
+    }
+  },
+  {
+    "n": {
+      "identity": 318,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LIS"
+      },
+      "elementId": "318"
+    }
+  },
+  {
+    "n": {
+      "identity": 319,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LISA"
+      },
+      "elementId": "319"
+    }
+  },
+  {
+    "n": {
+      "identity": 320,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Language H"
+      },
+      "elementId": "320"
+    }
+  },
+  {
+    "n": {
+      "identity": 321,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1960,
+        "name": "Lisp",
+        "spec": "ISO/IEC 13816"
+      },
+      "elementId": "321"
+    }
+  },
+  {
+    "n": {
+      "identity": 322,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lite-C"
+      },
+      "elementId": "322"
+    }
+  },
+  {
+    "n": {
+      "identity": 323,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lithe"
+      },
+      "elementId": "323"
+    }
+  },
+  {
+    "n": {
+      "identity": 324,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Little b"
+      },
+      "elementId": "324"
+    }
+  },
+  {
+    "n": {
+      "identity": 325,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LLL"
+      },
+      "elementId": "325"
+    }
+  },
+  {
+    "n": {
+      "identity": 326,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1967,
+        "name": "Logo"
+      },
+      "elementId": "326"
+    }
+  },
+  {
+    "n": {
+      "identity": 327,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1998,
+        "name": "Logtalk"
+      },
+      "elementId": "327"
+    }
+  },
+  {
+    "n": {
+      "identity": 328,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LotusScript"
+      },
+      "elementId": "328"
+    }
+  },
+  {
+    "n": {
+      "identity": 329,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1992,
+        "name": "LPC"
+      },
+      "elementId": "329"
+    }
+  },
+  {
+    "n": {
+      "identity": 330,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LSE"
+      },
+      "elementId": "330"
+    }
+  },
+  {
+    "n": {
+      "identity": 331,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LSL"
+      },
+      "elementId": "331"
+    }
+  },
+  {
+    "n": {
+      "identity": 332,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LiveCode"
+      },
+      "elementId": "332"
+    }
+  },
+  {
+    "n": {
+      "identity": 333,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LiveScript"
+      },
+      "elementId": "333"
+    }
+  },
+  {
+    "n": {
+      "identity": 334,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1993,
+        "name": "Lua"
+      },
+      "elementId": "334"
+    }
+  },
+  {
+    "n": {
+      "identity": 335,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lucid"
+      },
+      "elementId": "335"
+    }
+  },
+  {
+    "n": {
+      "identity": 336,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lustre"
+      },
+      "elementId": "336"
+    }
+  },
+  {
+    "n": {
+      "identity": 337,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "LYaPAS"
+      },
+      "elementId": "337"
+    }
+  },
+  {
+    "n": {
+      "identity": 338,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Lynx"
+      },
+      "elementId": "338"
+    }
+  },
+  {
+    "n": {
+      "identity": 339,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "M Formula language"
+      },
+      "elementId": "339"
+    }
+  },
+  {
+    "n": {
+      "identity": 340,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "M2001"
+      },
+      "elementId": "340"
+    }
+  },
+  {
+    "n": {
+      "identity": 341,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "M4"
+      },
+      "elementId": "341"
+    }
+  },
+  {
+    "n": {
+      "identity": 342,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "M#"
+      },
+      "elementId": "342"
+    }
+  },
+  {
+    "n": {
+      "identity": 343,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Machine code"
+      },
+      "elementId": "343"
+    }
+  },
+  {
+    "n": {
+      "identity": 344,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MAD (Michigan Algorithm Decoder)"
+      },
+      "elementId": "344"
+    }
+  },
+  {
+    "n": {
+      "identity": 345,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MAD/I"
+      },
+      "elementId": "345"
+    }
+  },
+  {
+    "n": {
+      "identity": 346,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Magik"
+      },
+      "elementId": "346"
+    }
+  },
+  {
+    "n": {
+      "identity": 347,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Magma"
+      },
+      "elementId": "347"
+    }
+  },
+  {
+    "n": {
+      "identity": 348,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MÃ¡ni"
+      },
+      "elementId": "348"
+    }
+  },
+  {
+    "n": {
+      "identity": 349,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Maple"
+      },
+      "elementId": "349"
+    }
+  },
+  {
+    "n": {
+      "identity": 350,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MAPPER (now part of BIS)"
+      },
+      "elementId": "350"
+    }
+  },
+  {
+    "n": {
+      "identity": 351,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MARK-IV (now VISION:BUILDER)"
+      },
+      "elementId": "351"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mary"
+      },
+      "elementId": "352"
+    }
+  },
+  {
+    "n": {
+      "identity": 353,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MATLAB"
+      },
+      "elementId": "353"
+    }
+  },
+  {
+    "n": {
+      "identity": 354,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MASM Microsoft Assembly x86"
+      },
+      "elementId": "354"
+    }
+  },
+  {
+    "n": {
+      "identity": 355,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1957,
+        "name": "MATH-MATIC"
+      },
+      "elementId": "355"
+    }
+  },
+  {
+    "n": {
+      "identity": 356,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Maude system"
+      },
+      "elementId": "356"
+    }
+  },
+  {
+    "n": {
+      "identity": 357,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Maxima (see also Macsyma)"
+      },
+      "elementId": "357"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Max (Max Msp â€“ Graphical Programming Environment)"
+      },
+      "elementId": "358"
+    }
+  },
+  {
+    "n": {
+      "identity": 359,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MaxScript internal language 3D Studio Max"
+      },
+      "elementId": "359"
+    }
+  },
+  {
+    "n": {
+      "identity": 360,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Maya (MEL)"
+      },
+      "elementId": "360"
+    }
+  },
+  {
+    "n": {
+      "identity": 361,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MDL"
+      },
+      "elementId": "361"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mercury"
+      },
+      "elementId": "362"
+    }
+  },
+  {
+    "n": {
+      "identity": 363,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1976,
+        "name": "Mesa"
+      },
+      "elementId": "363"
+    }
+  },
+  {
+    "n": {
+      "identity": 364,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MHEG-5 (Interactive TV programming language)"
+      },
+      "elementId": "364"
+    }
+  },
+  {
+    "n": {
+      "identity": 365,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Microcode"
+      },
+      "elementId": "365"
+    }
+  },
+  {
+    "n": {
+      "identity": 366,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Microsoft Power Fx"
+      },
+      "elementId": "366"
+    }
+  },
+  {
+    "n": {
+      "identity": 367,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MIIS"
+      },
+      "elementId": "367"
+    }
+  },
+  {
+    "n": {
+      "identity": 368,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Milk (programming language)"
+      },
+      "elementId": "368"
+    }
+  },
+  {
+    "n": {
+      "identity": 369,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MIMIC"
+      },
+      "elementId": "369"
+    }
+  },
+  {
+    "n": {
+      "identity": 370,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mirah"
+      },
+      "elementId": "370"
+    }
+  },
+  {
+    "n": {
+      "identity": 371,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Miranda"
+      },
+      "elementId": "371"
+    }
+  },
+  {
+    "n": {
+      "identity": 372,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MIVA Script"
+      },
+      "elementId": "372"
+    }
+  },
+  {
+    "n": {
+      "identity": 373,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1973,
+        "name": "ML"
+      },
+      "elementId": "373"
+    }
+  },
+  {
+    "n": {
+      "identity": 374,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Model 204"
+      },
+      "elementId": "374"
+    }
+  },
+  {
+    "n": {
+      "identity": 375,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Modelica"
+      },
+      "elementId": "375"
+    }
+  },
+  {
+    "n": {
+      "identity": 376,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Malbolge"
+      },
+      "elementId": "376"
+    }
+  },
+  {
+    "n": {
+      "identity": 377,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Modula"
+      },
+      "elementId": "377"
+    }
+  },
+  {
+    "n": {
+      "identity": 378,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1978,
+        "name": "Modula-2"
+      },
+      "elementId": "378"
+    }
+  },
+  {
+    "n": {
+      "identity": 379,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1988,
+        "name": "Modula-3"
+      },
+      "elementId": "379"
+    }
+  },
+  {
+    "n": {
+      "identity": 380,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mohol"
+      },
+      "elementId": "380"
+    }
+  },
+  {
+    "n": {
+      "identity": 381,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mojo"
+      },
+      "elementId": "381"
+    }
+  },
+  {
+    "n": {
+      "identity": 382,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MOO"
+      },
+      "elementId": "382"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mortran"
+      },
+      "elementId": "383"
+    }
+  },
+  {
+    "n": {
+      "identity": 384,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mouse"
+      },
+      "elementId": "384"
+    }
+  },
+  {
+    "n": {
+      "identity": 385,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MPD"
+      },
+      "elementId": "385"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MSL"
+      },
+      "elementId": "386"
+    }
+  },
+  {
+    "n": {
+      "identity": 387,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1966,
+        "name": "MUMPS"
+      },
+      "elementId": "387"
+    }
+  },
+  {
+    "n": {
+      "identity": 388,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "MuPAD"
+      },
+      "elementId": "388"
+    }
+  },
+  {
+    "n": {
+      "identity": 389,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mutan"
+      },
+      "elementId": "389"
+    }
+  },
+  {
+    "n": {
+      "identity": 390,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Mystic Programming Language (MPL)"
+      },
+      "elementId": "390"
+    }
+  },
+  {
+    "n": {
+      "identity": 391,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NASM"
+      },
+      "elementId": "391"
+    }
+  },
+  {
+    "n": {
+      "identity": 392,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Napier88"
+      },
+      "elementId": "392"
+    }
+  },
+  {
+    "n": {
+      "identity": 393,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Neko"
+      },
+      "elementId": "393"
+    }
+  },
+  {
+    "n": {
+      "identity": 394,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2003,
+        "name": "Nemerle"
+      },
+      "elementId": "394"
+    }
+  },
+  {
+    "n": {
+      "identity": 395,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NESL"
+      },
+      "elementId": "395"
+    }
+  },
+  {
+    "n": {
+      "identity": 396,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Net.Data"
+      },
+      "elementId": "396"
+    }
+  },
+  {
+    "n": {
+      "identity": 397,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NetLogo"
+      },
+      "elementId": "397"
+    }
+  },
+  {
+    "n": {
+      "identity": 398,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NetRexx"
+      },
+      "elementId": "398"
+    }
+  },
+  {
+    "n": {
+      "identity": 399,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NewLISP"
+      },
+      "elementId": "399"
+    }
+  },
+  {
+    "n": {
+      "identity": 400,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NEWP"
+      },
+      "elementId": "400"
+    }
+  },
+  {
+    "n": {
+      "identity": 401,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2006,
+        "name": "Newspeak"
+      },
+      "elementId": "401"
+    }
+  },
+  {
+    "n": {
+      "identity": 402,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1993,
+        "name": "NewtonScript"
+      },
+      "elementId": "402"
+    }
+  },
+  {
+    "n": {
+      "identity": 403,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Nial"
+      },
+      "elementId": "403"
+    }
+  },
+  {
+    "n": {
+      "identity": 404,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Nickle (NITIN)"
+      },
+      "elementId": "404"
+    }
+  },
+  {
+    "n": {
+      "identity": 405,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2008,
+        "name": "Nim"
+      },
+      "elementId": "405"
+    }
+  },
+  {
+    "n": {
+      "identity": 406,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Nix (Systems configuration language)"
+      },
+      "elementId": "406"
+    }
+  },
+  {
+    "n": {
+      "identity": 407,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NPL"
+      },
+      "elementId": "407"
+    }
+  },
+  {
+    "n": {
+      "identity": 408,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Not eXactly C (NXC)"
+      },
+      "elementId": "408"
+    }
+  },
+  {
+    "n": {
+      "identity": 409,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Not Quite C (NQC)"
+      },
+      "elementId": "409"
+    }
+  },
+  {
+    "n": {
+      "identity": 410,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NSIS"
+      },
+      "elementId": "410"
+    }
+  },
+  {
+    "n": {
+      "identity": 411,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2007,
+        "name": "Nu"
+      },
+      "elementId": "411"
+    }
+  },
+  {
+    "n": {
+      "identity": 412,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NWScript"
+      },
+      "elementId": "412"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "NXT-G"
+      },
+      "elementId": "413"
+    }
+  },
+  {
+    "n": {
+      "identity": 414,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "o:XML"
+      },
+      "elementId": "414"
+    }
+  },
+  {
+    "n": {
+      "identity": 415,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Oak"
+      },
+      "elementId": "415"
+    }
+  },
+  {
+    "n": {
+      "identity": 416,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1987,
+        "name": "Oberon"
+      },
+      "elementId": "416"
+    }
+  },
+  {
+    "n": {
+      "identity": 417,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OBJ2"
+      },
+      "elementId": "417"
+    }
+  },
+  {
+    "n": {
+      "identity": 418,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Object Lisp"
+      },
+      "elementId": "418"
+    }
+  },
+  {
+    "n": {
+      "identity": 419,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ObjectLOGO"
+      },
+      "elementId": "419"
+    }
+  },
+  {
+    "n": {
+      "identity": 420,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1988,
+        "name": "Object REXX"
+      },
+      "elementId": "420"
+    }
+  },
+  {
+    "n": {
+      "identity": 421,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1986,
+        "name": "Object Pascal"
+      },
+      "elementId": "421"
+    }
+  },
+  {
+    "n": {
+      "identity": 422,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1984,
+        "name": "Objective-C"
+      },
+      "elementId": "422"
+    }
+  },
+  {
+    "n": {
+      "identity": 423,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Obliq"
+      },
+      "elementId": "423"
+    }
+  },
+  {
+    "n": {
+      "identity": 424,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OCaml"
+      },
+      "elementId": "424"
+    }
+  },
+  {
+    "n": {
+      "identity": 425,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "occam"
+      },
+      "elementId": "425"
+    }
+  },
+  {
+    "n": {
+      "identity": 426,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "occam-Ï€"
+      },
+      "elementId": "426"
+    }
+  },
+  {
+    "n": {
+      "identity": 427,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Octave"
+      },
+      "elementId": "427"
+    }
+  },
+  {
+    "n": {
+      "identity": 428,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OmniMark"
+      },
+      "elementId": "428"
+    }
+  },
+  {
+    "n": {
+      "identity": 429,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2011,
+        "name": "Opa"
+      },
+      "elementId": "429"
+    }
+  },
+  {
+    "n": {
+      "identity": 430,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Opal"
+      },
+      "elementId": "430"
+    }
+  },
+  {
+    "n": {
+      "identity": 431,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Open Programming Language (OPL)"
+      },
+      "elementId": "431"
+    }
+  },
+  {
+    "n": {
+      "identity": 432,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OpenCL"
+      },
+      "elementId": "432"
+    }
+  },
+  {
+    "n": {
+      "identity": 433,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OpenEdge Advanced Business Language (ABL)"
+      },
+      "elementId": "433"
+    }
+  },
+  {
+    "n": {
+      "identity": 434,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OpenVera"
+      },
+      "elementId": "434"
+    }
+  },
+  {
+    "n": {
+      "identity": 435,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OpenQASM"
+      },
+      "elementId": "435"
+    }
+  },
+  {
+    "n": {
+      "identity": 436,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1981,
+        "name": "OPS5"
+      },
+      "elementId": "436"
+    }
+  },
+  {
+    "n": {
+      "identity": 437,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "OptimJ"
+      },
+      "elementId": "437"
+    }
+  },
+  {
+    "n": {
+      "identity": 438,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Orc"
+      },
+      "elementId": "438"
+    }
+  },
+  {
+    "n": {
+      "identity": 439,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ORCA/Modula-2"
+      },
+      "elementId": "439"
+    }
+  },
+  {
+    "n": {
+      "identity": 440,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Oriel"
+      },
+      "elementId": "440"
+    }
+  },
+  {
+    "n": {
+      "identity": 441,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Orwell"
+      },
+      "elementId": "441"
+    }
+  },
+  {
+    "n": {
+      "identity": 442,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2005,
+        "name": "Oxygene"
+      },
+      "elementId": "442"
+    }
+  },
+  {
+    "n": {
+      "identity": 443,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Oz"
+      },
+      "elementId": "443"
+    }
+  },
+  {
+    "n": {
+      "identity": 444,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "P"
+      },
+      "elementId": "444"
+    }
+  },
+  {
+    "n": {
+      "identity": 445,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "P4"
+      },
+      "elementId": "445"
+    }
+  },
+  {
+    "n": {
+      "identity": 446,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pâ€²â€²"
+      },
+      "elementId": "446"
+    }
+  },
+  {
+    "n": {
+      "identity": 447,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2009,
+        "name": "ParaSail"
+      },
+      "elementId": "447"
+    }
+  },
+  {
+    "n": {
+      "identity": 448,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PARI/GP"
+      },
+      "elementId": "448"
+    }
+  },
+  {
+    "n": {
+      "identity": 449,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1970,
+        "name": "Pascal",
+        "spec": "ISO 7185"
+      },
+      "elementId": "449"
+    }
+  },
+  {
+    "n": {
+      "identity": 450,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pascal Script"
+      },
+      "elementId": "450"
+    }
+  },
+  {
+    "n": {
+      "identity": 451,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PCASTL"
+      },
+      "elementId": "451"
+    }
+  },
+  {
+    "n": {
+      "identity": 452,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PCF"
+      },
+      "elementId": "452"
+    }
+  },
+  {
+    "n": {
+      "identity": 453,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PEARL"
+      },
+      "elementId": "453"
+    }
+  },
+  {
+    "n": {
+      "identity": 454,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PeopleCode"
+      },
+      "elementId": "454"
+    }
+  },
+  {
+    "n": {
+      "identity": 455,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1987,
+        "name": "Perl"
+      },
+      "elementId": "455"
+    }
+  },
+  {
+    "n": {
+      "identity": 456,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PDL"
+      },
+      "elementId": "456"
+    }
+  },
+  {
+    "n": {
+      "identity": 457,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pharo"
+      },
+      "elementId": "457"
+    }
+  },
+  {
+    "n": {
+      "identity": 458,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "PHP"
+      },
+      "elementId": "458"
+    }
+  },
+  {
+    "n": {
+      "identity": 459,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pico"
+      },
+      "elementId": "459"
+    }
+  },
+  {
+    "n": {
+      "identity": 460,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Picolisp"
+      },
+      "elementId": "460"
+    }
+  },
+  {
+    "n": {
+      "identity": 461,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pict"
+      },
+      "elementId": "461"
+    }
+  },
+  {
+    "n": {
+      "identity": 462,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1994,
+        "name": "Pike"
+      },
+      "elementId": "462"
+    }
+  },
+  {
+    "n": {
+      "identity": 463,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PILOT"
+      },
+      "elementId": "463"
+    }
+  },
+  {
+    "n": {
+      "identity": 464,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pipelines"
+      },
+      "elementId": "464"
+    }
+  },
+  {
+    "n": {
+      "identity": 465,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pizza"
+      },
+      "elementId": "465"
+    }
+  },
+  {
+    "n": {
+      "identity": 466,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL-11"
+      },
+      "elementId": "466"
+    }
+  },
+  {
+    "n": {
+      "identity": 467,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL/0"
+      },
+      "elementId": "467"
+    }
+  },
+  {
+    "n": {
+      "identity": 468,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1972,
+        "name": "PL/B"
+      },
+      "elementId": "468"
+    }
+  },
+  {
+    "n": {
+      "identity": 469,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL/C"
+      },
+      "elementId": "469"
+    }
+  },
+  {
+    "n": {
+      "identity": 470,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1964,
+        "name": "PL/I",
+        "spec": "ISO 6160"
+      },
+      "elementId": "470"
+    }
+  },
+  {
+    "n": {
+      "identity": 471,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL/M"
+      },
+      "elementId": "471"
+    }
+  },
+  {
+    "n": {
+      "identity": 472,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL/P"
+      },
+      "elementId": "472"
+    }
+  },
+  {
+    "n": {
+      "identity": 473,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL/S"
+      },
+      "elementId": "473"
+    }
+  },
+  {
+    "n": {
+      "identity": 474,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "PL/SQL"
+      },
+      "elementId": "474"
+    }
+  },
+  {
+    "n": {
+      "identity": 475,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PL360"
+      },
+      "elementId": "475"
+    }
+  },
+  {
+    "n": {
+      "identity": 476,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PLANC"
+      },
+      "elementId": "476"
+    }
+  },
+  {
+    "n": {
+      "identity": 477,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Plankalkül"
+      },
+      "elementId": "477"
+    }
+  },
+  {
+    "n": {
+      "identity": 478,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1969,
+        "name": "Planner"
+      },
+      "elementId": "478"
+    }
+  },
+  {
+    "n": {
+      "identity": 479,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PLEX"
+      },
+      "elementId": "479"
+    }
+  },
+  {
+    "n": {
+      "identity": 480,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PLEXIL"
+      },
+      "elementId": "480"
+    }
+  },
+  {
+    "n": {
+      "identity": 481,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Plus"
+      },
+      "elementId": "481"
+    }
+  },
+  {
+    "n": {
+      "identity": 482,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1980,
+        "name": "POP-11"
+      },
+      "elementId": "482"
+    }
+  },
+  {
+    "n": {
+      "identity": 483,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1970,
+        "name": "POP-2"
+      },
+      "elementId": "483"
+    }
+  },
+  {
+    "n": {
+      "identity": 484,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PostScript"
+      },
+      "elementId": "484"
+    }
+  },
+  {
+    "n": {
+      "identity": 485,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PortablE"
+      },
+      "elementId": "485"
+    }
+  },
+  {
+    "n": {
+      "identity": 486,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "POV-Ray SDL"
+      },
+      "elementId": "486"
+    }
+  },
+  {
+    "n": {
+      "identity": 487,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Powerhouse"
+      },
+      "elementId": "487"
+    }
+  },
+  {
+    "n": {
+      "identity": 488,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PowerBuilder â€“ 4GL GUI application generator from Sybase"
+      },
+      "elementId": "488"
+    }
+  },
+  {
+    "n": {
+      "identity": 489,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PowerShell"
+      },
+      "elementId": "489"
+    }
+  },
+  {
+    "n": {
+      "identity": 490,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PPL"
+      },
+      "elementId": "490"
+    }
+  },
+  {
+    "n": {
+      "identity": 491,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2001,
+        "name": "Processing"
+      },
+      "elementId": "491"
+    }
+  },
+  {
+    "n": {
+      "identity": 492,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Processing.js"
+      },
+      "elementId": "492"
+    }
+  },
+  {
+    "n": {
+      "identity": 493,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Prograph"
+      },
+      "elementId": "493"
+    }
+  },
+  {
+    "n": {
+      "identity": 494,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Project Verona"
+      },
+      "elementId": "494"
+    }
+  },
+  {
+    "n": {
+      "identity": 495,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Prolog"
+      },
+      "elementId": "495"
+    }
+  },
+  {
+    "n": {
+      "identity": 496,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PROMAL"
+      },
+      "elementId": "496"
+    }
+  },
+  {
+    "n": {
+      "identity": 497,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Promela"
+      },
+      "elementId": "497"
+    }
+  },
+  {
+    "n": {
+      "identity": 498,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PROSE modeling language"
+      },
+      "elementId": "498"
+    }
+  },
+  {
+    "n": {
+      "identity": 499,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PROTEL"
+      },
+      "elementId": "499"
+    }
+  },
+  {
+    "n": {
+      "identity": 500,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ProvideX"
+      },
+      "elementId": "500"
+    }
+  },
+  {
+    "n": {
+      "identity": 501,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pro*C"
+      },
+      "elementId": "501"
+    }
+  },
+  {
+    "n": {
+      "identity": 502,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pure"
+      },
+      "elementId": "502"
+    }
+  },
+  {
+    "n": {
+      "identity": 503,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Pure Data"
+      },
+      "elementId": "503"
+    }
+  },
+  {
+    "n": {
+      "identity": 504,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PureScript"
+      },
+      "elementId": "504"
+    }
+  },
+  {
+    "n": {
+      "identity": 505,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "PWCT"
+      },
+      "elementId": "505"
+    }
+  },
+  {
+    "n": {
+      "identity": 506,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1991,
+        "name": "Python"
+      },
+      "elementId": "506"
+    }
+  },
+  {
+    "n": {
+      "identity": 507,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Q (programming language from Kx Systems)"
+      },
+      "elementId": "507"
+    }
+  },
+  {
+    "n": {
+      "identity": 508,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Q#"
+      },
+      "elementId": "508"
+    }
+  },
+  {
+    "n": {
+      "identity": 509,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Qalb"
+      },
+      "elementId": "509"
+    }
+  },
+  {
+    "n": {
+      "identity": 510,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Quantum Computation Language"
+      },
+      "elementId": "510"
+    }
+  },
+  {
+    "n": {
+      "identity": 511,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "QtScript"
+      },
+      "elementId": "511"
+    }
+  },
+  {
+    "n": {
+      "identity": 512,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "QuakeC"
+      },
+      "elementId": "512"
+    }
+  },
+  {
+    "n": {
+      "identity": 513,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "QPL"
+      },
+      "elementId": "513"
+    }
+  },
+  {
+    "n": {
+      "identity": 514,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": ".QL"
+      },
+      "elementId": "514"
+    }
+  },
+  {
+    "n": {
+      "identity": 515,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1993,
+        "name": "R"
+      },
+      "elementId": "515"
+    }
+  },
+  {
+    "n": {
+      "identity": 516,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "R++"
+      },
+      "elementId": "516"
+    }
+  },
+  {
+    "n": {
+      "identity": 517,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "Racket"
+      },
+      "elementId": "517"
+    }
+  },
+  {
+    "n": {
+      "identity": 518,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2015,
+        "name": "Raku"
+      },
+      "elementId": "518"
+    }
+  },
+  {
+    "n": {
+      "identity": 519,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "RAPID"
+      },
+      "elementId": "519"
+    }
+  },
+  {
+    "n": {
+      "identity": 520,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Rapira"
+      },
+      "elementId": "520"
+    }
+  },
+  {
+    "n": {
+      "identity": 521,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ratfiv"
+      },
+      "elementId": "521"
+    }
+  },
+  {
+    "n": {
+      "identity": 522,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1976,
+        "name": "Ratfor"
+      },
+      "elementId": "522"
+    }
+  },
+  {
+    "n": {
+      "identity": 523,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "rc"
+      },
+      "elementId": "523"
+    }
+  },
+  {
+    "n": {
+      "identity": 524,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Reason"
+      },
+      "elementId": "524"
+    }
+  },
+  {
+    "n": {
+      "identity": 525,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "REBOL"
+      },
+      "elementId": "525"
+    }
+  },
+  {
+    "n": {
+      "identity": 526,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Red"
+      },
+      "elementId": "526"
+    }
+  },
+  {
+    "n": {
+      "identity": 527,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Redcode"
+      },
+      "elementId": "527"
+    }
+  },
+  {
+    "n": {
+      "identity": 528,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "REFAL"
+      },
+      "elementId": "528"
+    }
+  },
+  {
+    "n": {
+      "identity": 529,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "REXX"
+      },
+      "elementId": "529"
+    }
+  },
+  {
+    "n": {
+      "identity": 530,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ring"
+      },
+      "elementId": "530"
+    }
+  },
+  {
+    "n": {
+      "identity": 531,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ROOP"
+      },
+      "elementId": "531"
+    }
+  },
+  {
+    "n": {
+      "identity": 532,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "RPG"
+      },
+      "elementId": "532"
+    }
+  },
+  {
+    "n": {
+      "identity": 533,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "RPL"
+      },
+      "elementId": "533"
+    }
+  },
+  {
+    "n": {
+      "identity": 534,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "RSL"
+      },
+      "elementId": "534"
+    }
+  },
+  {
+    "n": {
+      "identity": 535,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "RTL/2"
+      },
+      "elementId": "535"
+    }
+  },
+  {
+    "n": {
+      "identity": 536,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "Ruby"
+      },
+      "elementId": "536"
+    }
+  },
+  {
+    "n": {
+      "identity": 537,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2015,
+        "name": "Rust"
+      },
+      "elementId": "537"
+    }
+  },
+  {
+    "n": {
+      "identity": 538,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S"
+      },
+      "elementId": "538"
+    }
+  },
+  {
+    "n": {
+      "identity": 539,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S2"
+      },
+      "elementId": "539"
+    }
+  },
+  {
+    "n": {
+      "identity": 540,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S3"
+      },
+      "elementId": "540"
+    }
+  },
+  {
+    "n": {
+      "identity": 541,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S-Lang"
+      },
+      "elementId": "541"
+    }
+  },
+  {
+    "n": {
+      "identity": 542,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S-PLUS"
+      },
+      "elementId": "542"
+    }
+  },
+  {
+    "n": {
+      "identity": 543,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SA-C"
+      },
+      "elementId": "543"
+    }
+  },
+  {
+    "n": {
+      "identity": 544,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SabreTalk"
+      },
+      "elementId": "544"
+    }
+  },
+  {
+    "n": {
+      "identity": 545,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SAIL"
+      },
+      "elementId": "545"
+    }
+  },
+  {
+    "n": {
+      "identity": 546,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SAKO"
+      },
+      "elementId": "546"
+    }
+  },
+  {
+    "n": {
+      "identity": 547,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SAS"
+      },
+      "elementId": "547"
+    }
+  },
+  {
+    "n": {
+      "identity": 548,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SASL"
+      },
+      "elementId": "548"
+    }
+  },
+  {
+    "n": {
+      "identity": 549,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1990,
+        "name": "Sather"
+      },
+      "elementId": "549"
+    }
+  },
+  {
+    "n": {
+      "identity": 550,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Sawzall"
+      },
+      "elementId": "550"
+    }
+  },
+  {
+    "n": {
+      "identity": 551,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2004,
+        "name": "Scala"
+      },
+      "elementId": "551"
+    }
+  },
+  {
+    "n": {
+      "identity": 552,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1975,
+        "name": "Scheme"
+      },
+      "elementId": "552"
+    }
+  },
+  {
+    "n": {
+      "identity": 553,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Scilab"
+      },
+      "elementId": "553"
+    }
+  },
+  {
+    "n": {
+      "identity": 554,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2003,
+        "name": "Scratch"
+      },
+      "elementId": "554"
+    }
+  },
+  {
+    "n": {
+      "identity": 555,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ScratchJr"
+      },
+      "elementId": "555"
+    }
+  },
+  {
+    "n": {
+      "identity": 556,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Script.NET"
+      },
+      "elementId": "556"
+    }
+  },
+  {
+    "n": {
+      "identity": 557,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Sed"
+      },
+      "elementId": "557"
+    }
+  },
+  {
+    "n": {
+      "identity": 558,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2005,
+        "name": "Seed7"
+      },
+      "elementId": "558"
+    }
+  },
+  {
+    "n": {
+      "identity": 559,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1987,
+        "name": "Self"
+      },
+      "elementId": "559"
+    }
+  },
+  {
+    "n": {
+      "identity": 560,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SenseTalk"
+      },
+      "elementId": "560"
+    }
+  },
+  {
+    "n": {
+      "identity": 561,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SequenceL"
+      },
+      "elementId": "561"
+    }
+  },
+  {
+    "n": {
+      "identity": 562,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Serpent"
+      },
+      "elementId": "562"
+    }
+  },
+  {
+    "n": {
+      "identity": 563,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SETL"
+      },
+      "elementId": "563"
+    }
+  },
+  {
+    "n": {
+      "identity": 564,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Short Code"
+      },
+      "elementId": "564"
+    }
+  },
+  {
+    "n": {
+      "identity": 565,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SIMPOL"
+      },
+      "elementId": "565"
+    }
+  },
+  {
+    "n": {
+      "identity": 566,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SIGNAL"
+      },
+      "elementId": "566"
+    }
+  },
+  {
+    "n": {
+      "identity": 567,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SiMPLE"
+      },
+      "elementId": "567"
+    }
+  },
+  {
+    "n": {
+      "identity": 568,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SIMSCRIPT"
+      },
+      "elementId": "568"
+    }
+  },
+  {
+    "n": {
+      "identity": 569,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "notes": "Considered first object-oriented programming language",
+        "year": 1962,
+        "name": "Simula"
+      },
+      "elementId": "569"
+    }
+  },
+  {
+    "n": {
+      "identity": 570,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Simulink"
+      },
+      "elementId": "570"
+    }
+  },
+  {
+    "n": {
+      "identity": 571,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SISAL"
+      },
+      "elementId": "571"
+    }
+  },
+  {
+    "n": {
+      "identity": 572,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SKILL"
+      },
+      "elementId": "572"
+    }
+  },
+  {
+    "n": {
+      "identity": 573,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SLIP"
+      },
+      "elementId": "573"
+    }
+  },
+  {
+    "n": {
+      "identity": 574,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SMALL"
+      },
+      "elementId": "574"
+    }
+  },
+  {
+    "n": {
+      "identity": 575,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1972,
+        "name": "Smalltalk"
+      },
+      "elementId": "575"
+    }
+  },
+  {
+    "n": {
+      "identity": 576,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SML"
+      },
+      "elementId": "576"
+    }
+  },
+  {
+    "n": {
+      "identity": 577,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Strongtalk"
+      },
+      "elementId": "577"
+    }
+  },
+  {
+    "n": {
+      "identity": 578,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Snap!"
+      },
+      "elementId": "578"
+    }
+  },
+  {
+    "n": {
+      "identity": 579,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SNOBOL (SPITBOL)"
+      },
+      "elementId": "579"
+    }
+  },
+  {
+    "n": {
+      "identity": 580,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Snowball"
+      },
+      "elementId": "580"
+    }
+  },
+  {
+    "n": {
+      "identity": 581,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SOL"
+      },
+      "elementId": "581"
+    }
+  },
+  {
+    "n": {
+      "identity": 582,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Solidity"
+      },
+      "elementId": "582"
+    }
+  },
+  {
+    "n": {
+      "identity": 583,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SOPHAEROS"
+      },
+      "elementId": "583"
+    }
+  },
+  {
+    "n": {
+      "identity": 584,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Source"
+      },
+      "elementId": "584"
+    }
+  },
+  {
+    "n": {
+      "identity": 585,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SPARK"
+      },
+      "elementId": "585"
+    }
+  },
+  {
+    "n": {
+      "identity": 586,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Speakeasy"
+      },
+      "elementId": "586"
+    }
+  },
+  {
+    "n": {
+      "identity": 587,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1953,
+        "name": "Speedcode"
+      },
+      "elementId": "587"
+    }
+  },
+  {
+    "n": {
+      "identity": 588,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SPIN"
+      },
+      "elementId": "588"
+    }
+  },
+  {
+    "n": {
+      "identity": 589,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SP/k"
+      },
+      "elementId": "589"
+    }
+  },
+  {
+    "n": {
+      "identity": 590,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SPS"
+      },
+      "elementId": "590"
+    }
+  },
+  {
+    "n": {
+      "identity": 591,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "591"
+    }
+  },
+  {
+    "n": {
+      "identity": 592,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SQR"
+      },
+      "elementId": "592"
+    }
+  },
+  {
+    "n": {
+      "identity": 593,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Squeak"
+      },
+      "elementId": "593"
+    }
+  },
+  {
+    "n": {
+      "identity": 594,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Squirrel"
+      },
+      "elementId": "594"
+    }
+  },
+  {
+    "n": {
+      "identity": 595,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SR"
+      },
+      "elementId": "595"
+    }
+  },
+  {
+    "n": {
+      "identity": 596,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "S/SL"
+      },
+      "elementId": "596"
+    }
+  },
+  {
+    "n": {
+      "identity": 597,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Starlogo"
+      },
+      "elementId": "597"
+    }
+  },
+  {
+    "n": {
+      "identity": 598,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Strand"
+      },
+      "elementId": "598"
+    }
+  },
+  {
+    "n": {
+      "identity": 599,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Stata"
+      },
+      "elementId": "599"
+    }
+  },
+  {
+    "n": {
+      "identity": 600,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Stateflow"
+      },
+      "elementId": "600"
+    }
+  },
+  {
+    "n": {
+      "identity": 601,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Subtext"
+      },
+      "elementId": "601"
+    }
+  },
+  {
+    "n": {
+      "identity": 602,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SBL"
+      },
+      "elementId": "602"
+    }
+  },
+  {
+    "n": {
+      "identity": 603,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SuperCollider"
+      },
+      "elementId": "603"
+    }
+  },
+  {
+    "n": {
+      "identity": 604,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1951,
+        "name": "Superplan"
+      },
+      "elementId": "604"
+    }
+  },
+  {
+    "n": {
+      "identity": 605,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SuperTalk"
+      },
+      "elementId": "605"
+    }
+  },
+  {
+    "n": {
+      "identity": 606,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Swift (Apple programming language)"
+      },
+      "elementId": "606"
+    }
+  },
+  {
+    "n": {
+      "identity": 607,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Swift (parallel scripting language)"
+      },
+      "elementId": "607"
+    }
+  },
+  {
+    "n": {
+      "identity": 608,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "SYMPL"
+      },
+      "elementId": "608"
+    }
+  },
+  {
+    "n": {
+      "identity": 609,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "T"
+      },
+      "elementId": "609"
+    }
+  },
+  {
+    "n": {
+      "identity": 610,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TACL"
+      },
+      "elementId": "610"
+    }
+  },
+  {
+    "n": {
+      "identity": 611,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TACPOL"
+      },
+      "elementId": "611"
+    }
+  },
+  {
+    "n": {
+      "identity": 612,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TADS (Text Adventure Development System)"
+      },
+      "elementId": "612"
+    }
+  },
+  {
+    "n": {
+      "identity": 613,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TAL"
+      },
+      "elementId": "613"
+    }
+  },
+  {
+    "n": {
+      "identity": 614,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1988,
+        "name": "Tcl"
+      },
+      "elementId": "614"
+    }
+  },
+  {
+    "n": {
+      "identity": 615,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Tea"
+      },
+      "elementId": "615"
+    }
+  },
+  {
+    "n": {
+      "identity": 616,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TECO (Text Editor and Corrector)"
+      },
+      "elementId": "616"
+    }
+  },
+  {
+    "n": {
+      "identity": 617,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TELCOMP"
+      },
+      "elementId": "617"
+    }
+  },
+  {
+    "n": {
+      "identity": 618,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TeX"
+      },
+      "elementId": "618"
+    }
+  },
+  {
+    "n": {
+      "identity": 619,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TEX (Text Executive Programming Language)"
+      },
+      "elementId": "619"
+    }
+  },
+  {
+    "n": {
+      "identity": 620,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TIE"
+      },
+      "elementId": "620"
+    }
+  },
+  {
+    "n": {
+      "identity": 621,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TMG (TransMoGrifier), compiler-compiler"
+      },
+      "elementId": "621"
+    }
+  },
+  {
+    "n": {
+      "identity": 622,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Tom"
+      },
+      "elementId": "622"
+    }
+  },
+  {
+    "n": {
+      "identity": 623,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Toi"
+      },
+      "elementId": "623"
+    }
+  },
+  {
+    "n": {
+      "identity": 624,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Topspeed (Clarion)"
+      },
+      "elementId": "624"
+    }
+  },
+  {
+    "n": {
+      "identity": 625,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TPU (Text Processing Utility)"
+      },
+      "elementId": "625"
+    }
+  },
+  {
+    "n": {
+      "identity": 626,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Trac"
+      },
+      "elementId": "626"
+    }
+  },
+  {
+    "n": {
+      "identity": 627,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TTM"
+      },
+      "elementId": "627"
+    }
+  },
+  {
+    "n": {
+      "identity": 628,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "T-SQL (Transact-SQL)"
+      },
+      "elementId": "628"
+    }
+  },
+  {
+    "n": {
+      "identity": 629,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Transcript (LiveCode)"
+      },
+      "elementId": "629"
+    }
+  },
+  {
+    "n": {
+      "identity": 630,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TTCN (Tree and Tabular Combined Notation)"
+      },
+      "elementId": "630"
+    }
+  },
+  {
+    "n": {
+      "identity": 631,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Turing"
+      },
+      "elementId": "631"
+    }
+  },
+  {
+    "n": {
+      "identity": 632,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TUTOR (PLATO Author Language)"
+      },
+      "elementId": "632"
+    }
+  },
+  {
+    "n": {
+      "identity": 633,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "TXL"
+      },
+      "elementId": "633"
+    }
+  },
+  {
+    "n": {
+      "identity": 634,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2012,
+        "name": "TypeScript"
+      },
+      "elementId": "634"
+    }
+  },
+  {
+    "n": {
+      "identity": 635,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Tynker"
+      },
+      "elementId": "635"
+    }
+  },
+  {
+    "n": {
+      "identity": 636,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Ubercode"
+      },
+      "elementId": "636"
+    }
+  },
+  {
+    "n": {
+      "identity": 637,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1977,
+        "name": "UCSD Pascal"
+      },
+      "elementId": "637"
+    }
+  },
+  {
+    "n": {
+      "identity": 638,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Umple"
+      },
+      "elementId": "638"
+    }
+  },
+  {
+    "n": {
+      "identity": 639,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Unicon"
+      },
+      "elementId": "639"
+    }
+  },
+  {
+    "n": {
+      "identity": 640,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Uniface"
+      },
+      "elementId": "640"
+    }
+  },
+  {
+    "n": {
+      "identity": 641,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "UNITY"
+      },
+      "elementId": "641"
+    }
+  },
+  {
+    "n": {
+      "identity": 642,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "UnrealScript"
+      },
+      "elementId": "642"
+    }
+  },
+  {
+    "n": {
+      "identity": 643,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2019,
+        "name": "V (also known as vlang)"
+      },
+      "elementId": "643"
+    }
+  },
+  {
+    "n": {
+      "identity": 644,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2006,
+        "name": "Vala"
+      },
+      "elementId": "644"
+    }
+  },
+  {
+    "n": {
+      "identity": 645,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Verse"
+      },
+      "elementId": "645"
+    }
+  },
+  {
+    "n": {
+      "identity": 646,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Vim script"
+      },
+      "elementId": "646"
+    }
+  },
+  {
+    "n": {
+      "identity": 647,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Viper (Ethereum/Ether (ETH))"
+      },
+      "elementId": "647"
+    }
+  },
+  {
+    "n": {
+      "identity": 648,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual DataFlex"
+      },
+      "elementId": "648"
+    }
+  },
+  {
+    "n": {
+      "identity": 649,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual DialogScript"
+      },
+      "elementId": "649"
+    }
+  },
+  {
+    "n": {
+      "identity": 650,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual FoxPro"
+      },
+      "elementId": "650"
+    }
+  },
+  {
+    "n": {
+      "identity": 651,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual J++ (Visual J plus plus)"
+      },
+      "elementId": "651"
+    }
+  },
+  {
+    "n": {
+      "identity": 652,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual LISP"
+      },
+      "elementId": "652"
+    }
+  },
+  {
+    "n": {
+      "identity": 653,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual Objects"
+      },
+      "elementId": "653"
+    }
+  },
+  {
+    "n": {
+      "identity": 654,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Visual Prolog"
+      },
+      "elementId": "654"
+    }
+  },
+  {
+    "n": {
+      "identity": 655,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "WATFIV, WATFOR (WATerloo FORtran IV)"
+      },
+      "elementId": "655"
+    }
+  },
+  {
+    "n": {
+      "identity": 656,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "WebAssembly"
+      },
+      "elementId": "656"
+    }
+  },
+  {
+    "n": {
+      "identity": 657,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "WebDNA"
+      },
+      "elementId": "657"
+    }
+  },
+  {
+    "n": {
+      "identity": 658,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Whiley"
+      },
+      "elementId": "658"
+    }
+  },
+  {
+    "n": {
+      "identity": 659,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Winbatch"
+      },
+      "elementId": "659"
+    }
+  },
+  {
+    "n": {
+      "identity": 660,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1988,
+        "name": "Wolfram Language"
+      },
+      "elementId": "660"
+    }
+  },
+  {
+    "n": {
+      "identity": 661,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Wyvern"
+      },
+      "elementId": "661"
+    }
+  },
+  {
+    "n": {
+      "identity": 662,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "X++ (X plus plus/Microsoft Dynamics AX)"
+      },
+      "elementId": "662"
+    }
+  },
+  {
+    "n": {
+      "identity": 663,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "X10"
+      },
+      "elementId": "663"
+    }
+  },
+  {
+    "n": {
+      "identity": 664,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "xBase++ (xBase plus plus)"
+      },
+      "elementId": "664"
+    }
+  },
+  {
+    "n": {
+      "identity": 665,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XBL"
+      },
+      "elementId": "665"
+    }
+  },
+  {
+    "n": {
+      "identity": 666,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XC (targets XMOS architecture)"
+      },
+      "elementId": "666"
+    }
+  },
+  {
+    "n": {
+      "identity": 667,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "xHarbour"
+      },
+      "elementId": "667"
+    }
+  },
+  {
+    "n": {
+      "identity": 668,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XL"
+      },
+      "elementId": "668"
+    }
+  },
+  {
+    "n": {
+      "identity": 669,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Xojo"
+      },
+      "elementId": "669"
+    }
+  },
+  {
+    "n": {
+      "identity": 670,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XOTcl"
+      },
+      "elementId": "670"
+    }
+  },
+  {
+    "n": {
+      "identity": 671,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Xod"
+      },
+      "elementId": "671"
+    }
+  },
+  {
+    "n": {
+      "identity": 672,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XPL"
+      },
+      "elementId": "672"
+    }
+  },
+  {
+    "n": {
+      "identity": 673,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XPL0"
+      },
+      "elementId": "673"
+    }
+  },
+  {
+    "n": {
+      "identity": 674,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XQuery"
+      },
+      "elementId": "674"
+    }
+  },
+  {
+    "n": {
+      "identity": 675,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XSB"
+      },
+      "elementId": "675"
+    }
+  },
+  {
+    "n": {
+      "identity": 676,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XSharp (X#)"
+      },
+      "elementId": "676"
+    }
+  },
+  {
+    "n": {
+      "identity": 677,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "XSLT"
+      },
+      "elementId": "677"
+    }
+  },
+  {
+    "n": {
+      "identity": 678,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Xtend"
+      },
+      "elementId": "678"
+    }
+  },
+  {
+    "n": {
+      "identity": 679,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Yorick"
+      },
+      "elementId": "679"
+    }
+  },
+  {
+    "n": {
+      "identity": 680,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "YQL"
+      },
+      "elementId": "680"
+    }
+  },
+  {
+    "n": {
+      "identity": 681,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Yoix"
+      },
+      "elementId": "681"
+    }
+  },
+  {
+    "n": {
+      "identity": 682,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Z shell"
+      },
+      "elementId": "682"
+    }
+  },
+  {
+    "n": {
+      "identity": 683,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Zebra, ZPL, ZPL2"
+      },
+      "elementId": "683"
+    }
+  },
+  {
+    "n": {
+      "identity": 684,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Zeno"
+      },
+      "elementId": "684"
+    }
+  },
+  {
+    "n": {
+      "identity": 685,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ZetaLisp"
+      },
+      "elementId": "685"
+    }
+  },
+  {
+    "n": {
+      "identity": 686,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2016,
+        "name": "Zig"
+      },
+      "elementId": "686"
+    }
+  },
+  {
+    "n": {
+      "identity": 687,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Zonnon"
+      },
+      "elementId": "687"
+    }
+  },
+  {
+    "n": {
+      "identity": 688,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ZOPL"
+      },
+      "elementId": "688"
+    }
+  },
+  {
+    "n": {
+      "identity": 689,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "ZPL"
+      },
+      "elementId": "689"
+    }
+  },
+  {
+    "n": {
+      "identity": 690,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Z++"
+      },
+      "elementId": "690"
+    }
+  },
+  {
+    "n": {
+      "identity": 691,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Tucker Taft"
+      },
+      "elementId": "691"
+    }
+  },
+  {
+    "n": {
+      "identity": 692,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Jean Ichbiah"
+      },
+      "elementId": "692"
+    }
+  },
+  {
+    "n": {
+      "identity": 693,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Dr. Martin C. Carlisle"
+      },
+      "elementId": "693"
+    }
+  },
+  {
+    "n": {
+      "identity": 694,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Lt. Col. Ricky Sward"
+      },
+      "elementId": "694"
+    }
+  },
+  {
+    "n": {
+      "identity": 695,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Maj. Jeff Humphries"
+      },
+      "elementId": "695"
+    }
+  },
+  {
+    "n": {
+      "identity": 696,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1995,
+        "name": "PL/SQL"
+      },
+      "elementId": "696"
+    }
+  },
+  {
+    "n": {
+      "identity": 697,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1998,
+        "name": "PL/pgSQL"
+      },
+      "elementId": "697"
+    }
+  },
+  {
+    "n": {
+      "identity": 698,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 2013,
+        "name": "Sparkel"
+      },
+      "elementId": "698"
+    }
+  },
+  {
+    "n": {
+      "identity": 699,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1996,
+        "name": "SQL/PSM"
+      },
+      "elementId": "699"
+    }
+  },
+  {
+    "n": {
+      "identity": 700,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1983,
+        "name": "VHDL"
+      },
+      "elementId": "700"
+    }
+  },
+  {
+    "n": {
+      "identity": 701,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Grace Murray Hopper"
+      },
+      "elementId": "701"
+    }
+  },
+  {
+    "n": {
+      "identity": 702,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1951,
+        "name": "A-1"
+      },
+      "elementId": "702"
+    }
+  },
+  {
+    "n": {
+      "identity": 703,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1951,
+        "name": "A-2"
+      },
+      "elementId": "703"
+    }
+  },
+  {
+    "n": {
+      "identity": 704,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1951,
+        "name": "A-3 (ARITH-MATIC)"
+      },
+      "elementId": "704"
+    }
+  },
+  {
+    "n": {
+      "identity": 705,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Friedrich L. Bauer"
+      },
+      "elementId": "705"
+    }
+  },
+  {
+    "n": {
+      "identity": 706,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Hermann Bottenbruch"
+      },
+      "elementId": "706"
+    }
+  },
+  {
+    "n": {
+      "identity": 707,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Heinz Rutishauser"
+      },
+      "elementId": "707"
+    }
+  },
+  {
+    "n": {
+      "identity": 708,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Klaus Samelson"
+      },
+      "elementId": "708"
+    }
+  },
+  {
+    "n": {
+      "identity": 709,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "John Backus"
+      },
+      "elementId": "709"
+    }
+  },
+  {
+    "n": {
+      "identity": 710,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Charles Katz"
+      },
+      "elementId": "710"
+    }
+  },
+  {
+    "n": {
+      "identity": 711,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Alan Perlis"
+      },
+      "elementId": "711"
+    }
+  },
+  {
+    "n": {
+      "identity": 712,
+      "labels": [
+        "person"
+      ],
+      "properties": {
+        "name": "Joseph Henry Wegstein"
+      },
+      "elementId": "712"
+    }
+  },
+  {
+    "n": {
+      "identity": 713,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "Sequentielle Formelübersetzung"
+      },
+      "elementId": "713"
+    }
+  },
+  {
+    "n": {
+      "identity": 714,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "IT"
+      },
+      "elementId": "714"
+    }
+  },
+  {
+    "n": {
+      "identity": 715,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1959,
+        "name": "AIMACO"
+      },
+      "elementId": "715"
+    }
+  },
+  {
+    "n": {
+      "identity": 716,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1959,
+        "name": "FACT"
+      },
+      "elementId": "716"
+    }
+  },
+  {
+    "n": {
+      "identity": 717,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1952,
+        "name": "Laning and Zierler system"
+      },
+      "elementId": "717"
+    }
+  },
+  {
+    "n": {
+      "identity": 718,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "name": "UNICODE"
+      },
+      "elementId": "718"
+    }
+  },
+  {
+    "n": {
+      "identity": 719,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1984,
+        "name": "Verilog (HDL)"
+      },
+      "elementId": "719"
+    }
+  },
+  {
+    "n": {
+      "identity": 720,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1974,
+        "name": "Z notation"
+      },
+      "elementId": "720"
+    }
+  },
+  {
+    "n": {
+      "identity": 721,
+      "labels": [
+        "language"
+      ],
+      "properties": {
+        "year": 1991,
+        "name": "Visual Basic"
+      },
+      "elementId": "721"
+    }
+  }
+]
